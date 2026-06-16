@@ -1,0 +1,17 @@
+{
+    "app_title": "Arabica & Co.",
+    "subtitle": "Specialty Coffee Boutique",
+    "login": "Sign In",
+    "register": "Create Account",
+    "logout": "Sign Out",
+    "username": "Username",
+    "password": "Password",
+    "products": "Featured Roasts",
+    "orders": "My Library",
+    "order_button": "Add to Reserve",
+    "cancel_order": "Cancel",
+    "price": "Price",
+    "welcome": "Welcome",
+    "no_orders": "Your collection is empty. Discover our beans.",
+    "login_prompt": "Please sign in to order beans"
+}

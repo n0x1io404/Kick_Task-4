@@ -1,0 +1,17 @@
+{
+    "app_title": "Arabica & Co.",
+    "subtitle": "Specialty Coffee Boutique",
+    "login": "Anmelden",
+    "register": "Konto Erstellen",
+    "logout": "Abmelden",
+    "username": "Benutzername",
+    "password": "Password",
+    "products": "Ausgewählte Röstungen",
+    "orders": "Meine Bibliothek",
+    "order_button": "In den Warenkorb",
+    "cancel_order": "Stornieren",
+    "price": "Preis",
+    "welcome": "Willkommen",
+    "no_orders": "Ihre Sammlung ist leer. Entdecken Sie unsere Bohnen.",
+    "login_prompt": "Bitte melden Sie sich an, um Bohnen zu bestellen"
+}
