@@ -8,9 +8,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.List;
 
-/**
- * DAO Pattern Layer with JDBC.
- */
 public class UserDaoImpl implements UserDao {
     @Override
     public User findByUsernameAndPassword(String username, String pass) {

@@ -9,9 +9,6 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * Web-Service requirement (*) - REST endpoint providing products JSON.
- */
 @WebServlet("/api/products")
 public class ProductWebService extends HttpServlet {
     private final ProductService productService = new ProductServiceImpl();

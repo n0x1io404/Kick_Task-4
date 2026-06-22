@@ -6,10 +6,6 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/**
- * Thread-safe Connection Pool implementation WITHOUT using 'synchronized' or 'volatile'.
- * Utilizes ArrayBlockingQueue and ReentrantLock pattern.
- */
 public class ConnectionPool {
     private static ConnectionPool instance;
     private static final Lock lock = new ReentrantLock();
